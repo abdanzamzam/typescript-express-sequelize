@@ -1,2 +1,2 @@
 # typescript-express-sequelize
-design pattern for typescript, express, sequelize
+Design pattern for starting project using: typescript, express, sequelize
